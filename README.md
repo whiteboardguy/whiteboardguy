@@ -1,8 +1,8 @@
-### Ishaan | Chief Executive Thought-Leader & Paradigm Architect
+## Ishaan | Chief Executive Thought-Leader & Paradigm Architect
 
 ---
 
-### "Professional" Experience
+## "Professional" Experience
 
 **EVP of Cross-Functional Synergy and Granular Paradigm Shifting** at the Global Institute of Redundant Redundancy,
 specializing in the leveraging cloud-native synergy to facilitate the vertical alignment of horizontal resource allocation.
@@ -17,7 +17,7 @@ analysis to ensure systematic removal of bugs.
 
 ---
 
-### Currently Researching
+## Currently Researching
 
 - Aves-Based Surveillance for Xalantir (Pigeons: feathered CIA units)
 - Non-Euclidean Meeting Structures
