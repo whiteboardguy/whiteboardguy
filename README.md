@@ -1,6 +1,5 @@
 # Ishaan | Chief Executive Thought-Leader & Paradigm Architect
 
----
 
 # "Professional" Experience
 
