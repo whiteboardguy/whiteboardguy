@@ -8,7 +8,6 @@
 
 - **Former Principal Architect of Legacy Debt Systems** at E-Corp Solutions, where I spearheaded the transmutation of functional logic. Got fired from HR for liking a fsociety post.
 
----
 
 # Currently Researching
 
